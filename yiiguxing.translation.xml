@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Selects whole Screen." />
+      <item value="Deactivates the keys contained into this method." />
+      <item value="Adds the KeyHandlers to the Scene." />
+      <item value="Constructor" />
+      <item value="When a key is being pressed into the capture window then this Animation Timer is doing it's magic." />
+      <item value="This is the Window which is used from the user to draw the rectangle representing an area on the screen to be captured." />
+      <item value="Repaint the canvas of the capture window." />
+      <item value="associate" />
+      <item value="algorithm" />
+      <item value="provider" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+</application>
