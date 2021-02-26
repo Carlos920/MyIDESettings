@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="功能" />
       <item value="Selects whole Screen." />
       <item value="Deactivates the keys contained into this method." />
       <item value="Adds the KeyHandlers to the Scene." />
@@ -18,5 +19,8 @@
         <entry key="ENGLISH" value="8" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1614341773218" />
   </component>
 </application>
