@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="613" />
     <option name="newTranslationDialogY" value="120" />
     <histories>
+      <item value="genuine" />
+      <item value="genui" />
+      <item value="genu" />
+      <item value="gen" />
+      <item value="ge" />
       <item value="功能" />
       <item value="Selects whole Screen." />
       <item value="Deactivates the keys contained into this method." />
