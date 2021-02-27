@@ -1,5 +1,8 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="613" />
+    <option name="newTranslationDialogY" value="120" />
     <histories>
       <item value="功能" />
       <item value="Selects whole Screen." />
