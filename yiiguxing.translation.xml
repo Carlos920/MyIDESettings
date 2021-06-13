@@ -1,0 +1,38 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="794" />
+    <option name="newTranslationDialogY" value="223" />
+    <histories>
+      <item value="Condition 'read &lt;= 0xEF' is always 'true' when reached " />
+      <item value="genuine" />
+      <item value="genui" />
+      <item value="genu" />
+      <item value="gen" />
+      <item value="ge" />
+      <item value="功能" />
+      <item value="Selects whole Screen." />
+      <item value="Deactivates the keys contained into this method." />
+      <item value="Adds the KeyHandlers to the Scene." />
+      <item value="Constructor" />
+      <item value="When a key is being pressed into the capture window then this Animation Timer is doing it's magic." />
+      <item value="This is the Window which is used from the user to draw the rectangle representing an area on the screen to be captured." />
+      <item value="Repaint the canvas of the capture window." />
+      <item value="associate" />
+      <item value="algorithm" />
+      <item value="provider" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1623236176564" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
